@@ -65,4 +65,6 @@ li.completed{
     color: #808080;
 }
 
-/* test*/
+input{
+    border-radius: 5px;
+}
